@@ -300,6 +300,11 @@ span {
     animation: fillBars-8 2.5s 1;
 }
 
+.bar-9{
+    width: 70%;
+    animation: fillBars-9 2.5s 1;
+}
+
 @keyframes fillBars-1 {
     from{
         width: 0;
@@ -369,6 +374,15 @@ span {
     }
     to {
         width: 50%;
+    }
+}
+
+@keyframes fillBars-9 {
+    from{
+        width: 0;
+    }
+    to {
+        width: 70%;
     }
 }
 
