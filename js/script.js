@@ -47,8 +47,8 @@ ScrollReveal().reveal('.skill-area', { origin: 'left'});
 
 const typed = new Typed('.multiple-text', {
     strings: ['Software Engineer', 'Project Manager', 'Backend Developer', 'Frontend Developer'],
-    typeSpeed: 100,
-    backSpeed:100,
-    backDelay:1000,
+    typeSpeed: 70,
+    backSpeed:70,
+    backDelay:700,
     loop:true
 });

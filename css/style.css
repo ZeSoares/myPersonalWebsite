@@ -301,7 +301,7 @@ span {
 }
 
 .bar-9{
-    width: 70%;
+    width: 80%;
     animation: fillBars-9 2.5s 1;
 }
 
@@ -382,7 +382,7 @@ span {
         width: 0;
     }
     to {
-        width: 70%;
+        width: 80%;
     }
 }
 
